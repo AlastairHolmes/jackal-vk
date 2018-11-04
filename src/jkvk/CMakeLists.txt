@@ -28,7 +28,7 @@ target_link_libraries(JackalVK PUBLIC JKUtil::JKUtil)
 		FILES
 			"${CMAKE_CURRENT_LIST_DIR}/structure_chain.h"
 			"${CMAKE_CURRENT_LIST_DIR}/utility.h"
-			"${CMAKE_CURRENT_LIST_DIR}/structure_wrapper.h")
+			"${CMAKE_CURRENT_LIST_DIR}/structure_wrappers.h")
 
 # Source Files
 
